@@ -1,5 +1,6 @@
 
-![Logo](https://www.pngitem.com/pimgs/m/531-5313435_bank-png-free-download-vector-bank-logo-png.png)
+![Logo](https://github.com/Tushardev0172/Banking_System_Solidity/assets/120170474/977e6347-600b-40ad-a0b7-9a8cd323730f)
+
 
 
 # Bank System Project
